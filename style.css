@@ -1,0 +1,48 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    background-color: #f9f9f9;
+}
+header {
+    background-color: #004d66;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.logo {
+    height: 60px;
+}
+section {
+    padding: 20px;
+}
+h2 {
+    color: #004d66;
+}
+.service-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-top: 15px;
+}
+.note {
+    font-size: 0.9em;
+    color: #555;
+}
+.cert-logos img {
+    height: 50px;
+    margin: 10px;
+}
+.contact a {
+    color: #25D366;
+    text-decoration: none;
+    font-weight: bold;
+}
+footer {
+    text-align: center;
+    background: #004d66;
+    color: white;
+    padding: 10px;
+}
