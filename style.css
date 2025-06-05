@@ -7,7 +7,7 @@ body {
     background-color: #002F4B;
 }
 .background {
-    background: url('images/background.jpeg') no-repeat center center;
+    background: url('background.jpg') no-repeat center center;
     background-size: cover;
     padding: 40px;
 }
