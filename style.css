@@ -1,0 +1,41 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(#007B8A, #003F4D);
+    color: white;
+    text-align: center;
+}
+header {
+    padding: 30px 20px;
+}
+.logo {
+    width: 120px;
+}
+.tagline {
+    font-size: 1.1em;
+    margin-top: 5px;
+}
+main {
+    padding: 40px 20px;
+}
+.contact-info {
+    background: rgba(0, 0, 0, 0.2);
+    padding: 30px;
+    border-radius: 10px;
+    display: inline-block;
+    text-align: left;
+}
+.contact-info ul {
+    list-style-type: none;
+    padding: 0;
+}
+.contact-info li {
+    margin: 10px 0;
+}
+footer {
+    margin-top: 50px;
+    font-size: 0.9em;
+    color: #ccc;
+}
